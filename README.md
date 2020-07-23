@@ -23,7 +23,7 @@ post http://localhost:3333/mercadolivre
 
 Body - JSON
 
-{
- "search": String, `// termo usado na busca`
- "limit": Int `// número de registros retornados`
-}
+{  
+ "search": String, `// termo usado na busca`  
+ "limit": Int `// número de registros retornados`  
+}  
